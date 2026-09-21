@@ -77,4 +77,4 @@ Note: Since this project currently uses an in-memory Python list rather than a d
 
 The API includes interactive Swagger documentation:
 
-![Swagger UI](screenshots/swagger-ui.png)
+![Swagger UI](swagger-ui.png)
